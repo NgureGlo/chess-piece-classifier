@@ -1,6 +1,6 @@
 # Chess Piece Classifier
 
-A small image-classification project that predicts the color and type of one chess piece in a photo. It uses transfer learning with MobileNetV2 and has a Streamlit upload interface.
+A small image-classification project that predicts the color and type of one chess piece in a photo. It uses transfer learning with MobileNetV2 and has a [Streamlit](https://chess-piece-classifier-rdmcm2uhesmdivqnaptkqk.streamlit.app/) upload interface.
 
 ## Dataset
 
